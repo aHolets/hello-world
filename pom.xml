@@ -18,7 +18,7 @@
     <properties>
         <jenkins.version>2.204.2</jenkins.version>
         <java.level>8</java.level>
-        <git.version>4.1.1</git.version>
+        <git.version>4.11.4</git.version>
     </properties>
 
     <name>TEST Plugin</name>
